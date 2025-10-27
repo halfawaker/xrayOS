@@ -1,4 +1,15 @@
-# xrayOS
+```                     ____   _____ 
+                       / __ \ / ____|
+ __  ___ __ __ _ _   _| |  | | (___  
+ \ \/ / '__/ _` | | | | |  | |\___ \ 
+  >  <| | | (_| | |_| | |__| |____) |
+ /_/\_\_|  \__,_|\__, |\____/|_____/ 
+                  __/ |
+                 |___/
+```
+
+___
+          
 A simple, terminal-based operating system* coded in C.
 This is coded by one one guy, and I'm not even that good at C. Also keep in mind that this is quite early in development right now, and everything is subject to change.
 
